@@ -47,13 +47,13 @@ redirect_from:
         <h3>Publications</h3>
         <hr class="solid">
 
-        <p>September 2026. Hybrid Sanctioning for Improved Social Norms Compliance. EUMAS, Malmö.</p>
+        <p><strong>Yuan, Y.</strong>, Liu, W., &amp; Ajmeri, N. (2026). "Hybrid Sanctioning for Improved Social Norms Compliance." The 23rd European Conference on Multi-Agent Systems (EUMAS), Malmö.</p>
 
-        <p>May 2026. Long-term Effects of Fairness Metrics on Population Dynamics.</p>
+        <p>Dankloff, M., <strong>Yuan, Y.</strong>, Ajmeri, N., &amp; Yazdanpanah, V. (2026). "Long-term Effects of Fairness Metrics on Population Dynamics." C-MAS 2026: The 4th International Workshop on Citizen-Centric Multiagent Systems.</p>
 
-        <p>May 2026. Re-Framing Transparency, Interpretability, and Explainability for Multi-Agent Systems. COINE, Paphos.</p>
+        <p>Woodgate, J., Collins, D. E., <strong>Yuan, Y.</strong>, &amp; Ajmeri, N. (2026). "Re-Framing Transparency, Interpretability, and Explainability for Multi-Agent Systems." COINE 2026, Paphos.</p>
 
-        <p>February 2024. Multi-Granular Evaluation of Counterfactual Explanations. ICAART, Rome.</p>
+        <p><strong>Yuan, Y.</strong>, McAreavey, K., Li, S., &amp; Liu, W. (2024). "Multi-Granular Evaluation of Diverse Counterfactual Explanations." ICAART, Rome.</p>
 
         <hr class="solid">
         <h3>Research Presentations</h3>
