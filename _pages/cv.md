@@ -47,6 +47,12 @@ redirect_from:
         <h3>Publications</h3>
         <hr class="solid">
 
+        <p>September 2026. Hybrid Sanctioning for Improved Social Norms Compliance. EUMAS, Malmö.</p>
+
+        <p>May 2026. Long-term Effects of Fairness Metrics on Population Dynamics.</p>
+
+        <p>May 2026. Re-Framing Transparency, Interpretability, and Explainability for Multi-Agent Systems. COINE, Paphos.</p>
+
         <p>February 2024. Multi-Granular Evaluation of Counterfactual Explanations. ICAART, Rome.</p>
 
         <hr class="solid">
